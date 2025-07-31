@@ -1,0 +1,20 @@
+
+Model Metrics Summary
+
+Train/Test Split: 80/20
+
+Model 1: Linear Regression  
+R² Score: 0.58  
+RMSE: ~0.73
+
+Model 2: Random Forest Regressor  
+R² Score: 0.81  
+RMSE: ~0.47
+
+Top Influential Features:
+- MedInc (Median Income)
+- AveRooms (Average Rooms)
+- HouseAge (Housing Age)
+- AveOccup (Average Occupants)
+- AveBedrms (Average Bedrooms)
+- Latitude / Longitude
