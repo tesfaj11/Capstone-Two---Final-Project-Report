@@ -1,5 +1,4 @@
 # Capstone-Two---Final-Project-Report
-# California Housing Prices Prediction
 
 This project analyzes housing data from California to build a machine learning model that predicts **median house prices** based on location, population density, and socio-economic factors.
 
